@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/PBL_Data_Training/pbl/Datasets/train
+val: /content/drive/MyDrive/PBL_Data_Training/pbl/Datasets/val
+
+nc: 16
+names: ['Marco, Iqbal, ']
